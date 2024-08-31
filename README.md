@@ -1,6 +1,6 @@
 # HW2_IOCLA
 
-Assembly homework
+x86 32 bit Assembly homework using NASM assembler.
 
 ## Implementation
 
